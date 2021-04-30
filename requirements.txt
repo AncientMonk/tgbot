@@ -66,7 +66,7 @@ pyttsx==1.1
 pyxdg==0.25
 reportlab==3.3.0
 requests==2.19.1
-rsa==3.4.2
+rsa==4.7
 scipy==1.0.0
 service-identity==16.0.0
 setproctitle==1.1.8
