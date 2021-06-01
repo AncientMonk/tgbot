@@ -75,7 +75,7 @@ speech==0.5.2
 SpeechRecognition==3.8.1
 Twisted==16.0.0
 uritemplate==3.0.0
-urllib3==1.23
+urllib3==1.26.5
 uTidylib==0.2
 virtualenv==16.0.0
 zope.interface==4.1.3
