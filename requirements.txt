@@ -64,7 +64,7 @@ python-debian==0.1.27
 python-lzo==1.8
 pyttsx==1.1
 pyxdg==0.25
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.19.1
 rsa==3.4.2
 scipy==1.0.0
